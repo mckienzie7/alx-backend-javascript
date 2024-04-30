@@ -1,4 +1,4 @@
-i{
+{
   "compilerOptions": {
     "outDir": "./dist/",
     "sourceMap": true,
